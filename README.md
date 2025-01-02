@@ -75,6 +75,10 @@ Lossy Compression: Removes some image data for smaller file size (e.g., JPEG).
 Lossless Compression: Preserves all image data (e.g., PNG).
 # Applications of These Techniques
 Medical Imaging: Disease diagnosis through enhanced scans.
+
 Autonomous Vehicles: Road lane detection and obstacle recognition.
+
 Surveillance: Motion detection and facial recognition.
+
 AR/VR: Real-time object overlay and environment mapping.
+
